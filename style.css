@@ -47,6 +47,10 @@
     font-weight: 600;    
 }
 
+.row {
+     margin-bottom: 16px; 
+}
+
 .title {
     font-size: 36px;
     text-align: center;
